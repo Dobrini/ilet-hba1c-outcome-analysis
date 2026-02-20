@@ -105,7 +105,7 @@ No attempt is made to identify individual participants.
 Results are reported only in aggregated form.
 
 
-Analyses and conclusions presented in this repository are solely those of the author and have not been reviewed or approved by the original study investigators or sponsors.
+The source of the data is the Insulin Only Bionic Pancreas Pivotal Trial, but the analyses, content and conclusions presented herein are solely the responsibility of the authors and have not been reviewed or approved by the Bionic Pancreas Research Group or Beta Bionics.
 
 ## Disclaimer
 
