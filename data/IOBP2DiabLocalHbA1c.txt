@@ -1,0 +1,441 @@
+RecID|PtID|ParentLoginVisitID|Visit|HbA1cNotDone|HbA1cTestDt|HbA1cTestMeth|HbA1cTestRes
+2|347|3|Screening||9/25/2019|Lab|7.2
+3|183|5|Screening|1
+6|413|15|Screening|1
+7|245|35|Screening|1
+8|181|36|Screening|1
+9|252|38|Screening||5/11/2020|Lab|6.8
+10|459|40|Screening||11/15/2019|DCA point of care|6.5
+11|577|42|Screening||9/4/2020|Afinion point of care|10.2
+12|46|43|Screening||10/6/2020|DCA point of care|5.7
+13|235|45|Screening|1
+15|395|53|Screening|1
+16|590|54|Screening||9/23/2020|DCA point of care|8.2
+17|167|55|Screening||2/10/2020|Lab|8.0
+18|480|57|Screening||8/16/2020|DCA point of care|7.0
+19|259|60|Screening||11/9/2019|DCA point of care|11.4
+20|71|62|Screening||11/2/2019|Lab|6.9
+21|440|68|Screening||10/25/2019|Lab|7.1
+22|233|76|Screening|1
+23|443|77|Screening|1
+24|554|78|Screening||12/31/2019|Lab|7.0
+25|362|82|Screening||1/29/2020|DCA point of care|7.6
+26|76|84|Screening||7/16/2020|Lab|6.5
+27|541|95|Screening||10/9/2020|DCA point of care|6.3
+29|10|98|Screening||11/5/2019|DCA point of care|6.8
+30|511|101|Screening||1/3/2020|DCA point of care|8.0
+31|107|104|Screening||7/6/2020|DCA point of care|10.0
+32|394|113|Screening||10/5/2020|DCA point of care|8.5
+33|223|140|Screening||2/18/2020|Afinion point of care|8.3
+35|146|188|Screening||3/10/2020|DCA point of care|6.5
+36|59|195|Screening||7/22/2020|DCA point of care|7.3
+38|378|201|Screening|1
+39|36|202|Screening||6/20/2020|Afinion point of care|5.9
+40|451|205|Screening||3/13/2020|Lab|7.5
+41|128|206|Screening||12/12/2019|DCA point of care|7.0
+43|98|208|Screening||7/5/2020|Lab|8.7
+44|49|211|Screening|1
+45|321|212|Screening|1
+47|199|216|Screening|1
+48|464|218|Screening||5/9/2020|Lab|14.2
+49|173|220|Screening|1
+50|279|221|Screening||9/3/2020|DCA point of care|9.8
+51|403|222|Screening||6/2/2020|DCA point of care|6.6
+52|530|225|Screening|1
+53|206|227|Screening||5/28/2020|Lab|8.3
+55|597|229|Screening|1
+56|37|230|Screening||11/25/2019|Lab|6.6
+57|221|233|Screening||2/7/2020|Lab|7.3
+59|216|237|Screening||3/20/2020|DCA point of care|6.8
+60|545|238|Screening|1
+61|31|239|Screening||4/3/2020|DCA point of care|7.4
+62|531|240|Screening||9/30/2020|DCA point of care|8.2
+63|38|241|Screening|1
+64|575|242|Screening||11/2/2020|Lab|9.8
+65|92|245|Screening||10/25/2020|Afinion point of care|8.7
+66|393|246|Screening||8/10/2020|DCA point of care|7.7
+67|102|248|Screening||8/7/2020|DCA point of care|6.0
+69|509|251|Screening|1
+70|323|252|Screening|1
+72|301|255|Screening||7/22/2020|Afinion point of care|7.1
+73|265|256|Screening||9/16/2020|Afinion point of care|9.5
+74|543|257|Screening||11/7/2020|DCA point of care|6.7
+75|287|258|Screening||3/8/2020|DCA point of care|8.6
+76|209|259|Screening||11/22/2020|DCA point of care|7.8
+77|422|260|Screening||1/15/2020|DCA point of care|8.9
+78|184|262|Screening||9/3/2020|Afinion point of care|10.4
+80|317|264|Screening||6/18/2020|Afinion point of care|8.2
+81|501|267|Screening|1
+82|448|268|Screening||6/12/2020|Lab|8.8
+83|148|269|Screening||8/13/2020|DCA point of care|8.2
+84|255|271|Screening||11/7/2020|DCA point of care|7.3
+85|52|273|Screening|1
+86|446|274|Screening||12/23/2019|Afinion point of care|8.1
+87|162|275|Screening||5/30/2020|Afinion point of care|7.6
+88|112|276|Screening||12/6/2020|DCA point of care|7.6
+89|571|277|Screening||5/29/2020|Lab|7.0
+90|157|278|Screening||12/7/2019|DCA point of care|7.1
+91|69|280|Screening|1
+92|231|284|Screening||11/20/2020|Afinion point of care|7.8
+93|439|285|Screening|1
+94|375|287|Screening|1
+95|93|290|Screening|1
+96|566|292|Screening||8/24/2020|Lab|5.6
+97|201|293|Screening||8/13/2020|DCA point of care|8.6
+99|135|296|Screening|1
+100|380|299|Screening|1
+101|94|301|Screening|1
+102|193|304|Screening||2/20/2020|DCA point of care|8.1
+103|194|305|Screening|1
+104|39|307|Screening||6/5/2020|DCA point of care|7.7
+105|86|308|Screening||1/8/2020|Lab|7.5
+106|258|309|Screening|1
+107|457|310|Screening||12/12/2019|Lab|6.8
+108|326|313|Screening|1
+109|407|316|Screening|1
+110|170|318|Screening||12/5/2020|DCA point of care|6.7
+111|186|319|Screening||11/24/2020|DCA point of care|8.3
+112|551|320|Screening|1
+113|438|322|Screening|1
+114|100|323|Screening||8/7/2020|Lab|8.4
+115|212|327|Screening||4/16/2020|DCA point of care|8.2
+116|217|328|Screening|1
+117|249|329|Screening|1
+118|332|331|Screening|1
+119|368|332|Screening|1
+123|447|337|Screening|1
+124|320|341|Screening||11/1/2020|DCA point of care|7.8
+125|85|343|Screening||12/16/2019|Lab|6.1
+126|171|344|Screening|1
+127|475|345|Screening|1
+128|134|347|Screening|1
+129|156|348|Screening|1
+130|130|349|Screening|1
+131|205|350|Screening||5/24/2020|DCA point of care|7.7
+132|101|351|Screening||1/11/2020|Lab|8.4
+133|433|353|Screening|1
+134|176|356|Screening|1
+135|338|357|Screening|1
+136|97|358|Screening||5/24/2020|DCA point of care|7.3
+137|436|363|Screening|1
+139|304|368|Screening|1
+140|517|369|Screening||6/13/2020|Lab|9.9
+141|126|370|Screening|1
+142|24|371|Screening|1
+143|198|373|Screening|1
+144|525|375|Screening|1
+145|185|377|Screening|1
+146|345|378|Screening||1/8/2020|DCA point of care|8.0
+147|166|379|Screening||4/23/2020|DCA point of care|7.1
+148|445|382|Screening|1
+149|50|385|Screening||6/6/2020|DCA point of care|8.0
+150|30|386|Screening||8/8/2020|DCA point of care|7.9
+151|114|388|Screening|1
+152|78|389|Screening||9/16/2020|DCA point of care|10.3
+153|468|390|Screening||9/18/2020|DCA point of care|9.6
+154|6|391|Screening||8/28/2020|DCA point of care|7.2
+155|47|393|Screening||9/9/2020|DCA point of care|8.7
+156|160|405|Screening||6/24/2020|DCA point of care|8.9
+157|227|407|Screening||11/11/2020|DCA point of care|8.4
+158|348|408|Screening|1
+159|387|409|Screening||11/13/2020|DCA point of care|6.4
+160|396|412|Screening|1
+161|111|413|Screening||7/13/2020|Afinion point of care|7.8
+163|382|419|Screening||4/20/2020|Afinion point of care|7.2
+164|421|420|Screening||9/21/2020|Lab|5.8
+165|473|422|Screening|1
+166|117|424|Screening||6/12/2020|Lab|7.2
+167|423|427|Screening||4/16/2020|DCA point of care|7.9
+168|584|430|Screening|1
+169|226|432|Screening||6/3/2020|Lab|6.4
+170|20|434|Screening|1
+171|35|435|Screening||5/11/2020|DCA point of care|9.9
+173|472|438|Screening|1
+174|546|439|Screening||2/13/2020|DCA point of care|7.4
+175|502|441|Screening|1
+176|105|443|Screening||5/22/2020|DCA point of care|7.2
+177|118|445|Screening|1
+178|23|447|Screening||9/7/2020|DCA point of care|7.4
+179|261|449|Screening||12/12/2020|DCA point of care|9.3
+180|309|451|Screening|1
+181|437|453|Screening|1
+182|548|454|Screening||12/11/2020|DCA point of care|7.8
+183|141|455|Screening||7/20/2020|DCA point of care|7.8
+184|12|457|Screening|1
+186|549|462|Screening||4/5/2020|Lab|7.9
+187|18|464|Screening||1/9/2020|DCA point of care|7.7
+188|417|467|Screening||12/22/2019|DCA point of care|6.9
+189|51|470|Screening||8/28/2020|DCA point of care|7.8
+190|484|472|Screening|1
+191|389|475|Screening||7/18/2020|DCA point of care|8.3
+192|187|476|Screening|1
+193|13|485|Screening||6/1/2020|DCA point of care|9.1
+194|600|487|Screening||4/15/2020|Lab|6.7
+195|300|491|Screening||5/22/2020|Afinion point of care|7.7
+197|344|496|Screening|1
+198|218|497|Screening|1
+199|552|498|Screening|1
+200|444|500|Screening|1
+201|307|504|Screening||5/25/2020|Lab|6.7
+202|314|506|Screening|1
+203|580|507|Screening|1
+204|504|509|Screening||6/25/2020|DCA point of care|8.5
+205|493|511|Screening|1
+206|496|513|Screening|1
+208|533|519|Screening||12/30/2019|Lab|6.2
+209|578|522|Screening|1
+210|147|524|Screening|1
+211|507|526|Screening|1
+212|369|527|Screening|1
+213|25|528|Screening|1
+214|155|530|Screening||10/19/2020|Lab|5.9
+215|238|531|Screening||12/16/2020|DCA point of care|7.0
+216|119|533|Screening||12/3/2020|Lab|7.7
+217|426|536|Screening|1
+218|477|537|Screening|1
+220|274|543|Screening|1
+221|567|544|Screening||1/3/2020|DCA point of care|7.3
+222|367|568|Screening|1
+223|576|569|Screening|1
+224|574|587|Screening|1
+227|77|600|Screening|1
+228|376|602|Screening|1
+229|202|603|Screening|1
+230|311|604|Screening|1
+231|295|605|Screening||9/20/2020|DCA point of care|9.0
+232|462|606|Screening||11/10/2020|DCA point of care|8.5
+233|529|607|Screening||1/15/2020|DCA point of care|6.9
+234|254|608|Screening||5/8/2020|DCA point of care|7.5
+235|458|609|Screening|1
+236|236|610|Screening|1
+237|120|612|Screening||3/11/2020|DCA point of care|7.0
+238|288|614|Screening|1
+239|271|616|Screening|1
+240|276|619|Screening||8/11/2020|DCA point of care|5.9
+243|416|630|Screening||6/23/2020|Lab|8.4
+245|420|634|Screening||7/13/2020|Lab|7.6
+246|195|635|Screening||3/11/2020|Afinion point of care|8.7
+247|497|637|Screening||12/6/2019|Lab|6.0
+248|370|638|Screening||9/26/2020|Afinion point of care|5.7
+249|42|640|Screening||6/20/2020|Lab|7.7
+250|207|644|Screening||11/16/2020|Lab|6.4
+251|65|645|Screening||2/1/2020|Lab|7.5
+252|392|646|Screening||1/11/2020|Lab|7.9
+253|242|650|Screening|1
+254|406|652|Screening||6/14/2020|DCA point of care|9.2
+255|200|653|Screening|1
+257|54|656|Screening|1
+258|48|659|Screening||9/1/2020|Lab|7.7
+259|113|660|Screening||9/10/2020|DCA point of care|8.8
+260|189|662|Screening|1
+261|137|664|Screening|1
+262|377|667|Screening|1
+264|486|670|Screening|1
+265|318|675|Screening||10/25/2020|DCA point of care|8.5
+266|214|676|Screening|1
+267|467|678|Screening||11/2/2020|Lab|7.4
+268|586|681|Screening||6/19/2020|DCA point of care|6.2
+269|32|683|Screening|1
+270|449|686|Screening|1
+271|153|687|Screening|1
+272|154|688|Screening|1
+273|583|690|Screening|1
+274|40|691|Screening||4/26/2020|Lab|7.5
+275|266|693|Screening||1/26/2020|Lab|8.6
+276|29|695|Screening|1
+277|139|699|Screening|1
+278|587|702|Screening|1
+279|519|703|Screening||4/22/2020|Lab|10.5
+280|404|704|Screening|1
+281|569|707|Screening||2/19/2020|DCA point of care|7.7
+282|390|710|Screening||10/28/2020|Lab|6.7
+283|125|712|Screening|1
+284|27|714|Screening|1
+285|400|715|Screening|1
+286|557|720|Screening|1
+287|312|724|Screening||9/12/2020|Lab|6.4
+288|550|727|Screening||12/14/2019|Lab|7.9
+289|281|730|Screening||6/28/2020|Lab|6.9
+290|399|732|Screening||7/29/2020|Lab|7.1
+291|555|734|Screening||2/19/2020|Lab|6.8
+292|581|736|Screening||12/1/2020|Lab|8.0
+293|9|739|Screening|1
+294|553|740|Screening||8/12/2020|Lab|5.4
+295|63|743|Screening||1/25/2020|Lab|6.6
+296|168|746|Screening||10/13/2020|DCA point of care|7.9
+297|215|749|Screening||1/15/2020|Lab|10.6
+298|359|752|Screening||9/25/2020|Lab|6.4
+299|540|754|Screening|1
+300|588|756|Screening||11/23/2020|Lab|9.6
+301|8|759|Screening||4/14/2020|Lab|6.4
+302|466|774|Screening|1
+303|365|776|Screening|1
+304|535|780|Screening||5/16/2020|Lab|9.3
+305|357|783|Screening|1
+307|72|787|Screening|1
+309|381|791|Screening|1
+310|99|793|Screening|1
+311|341|803|Screening||2/2/2020|Lab|6.9
+312|463|805|Screening|1
+313|277|812|Screening|1
+315|284|820|Screening|1
+316|280|832|Screening|1
+317|270|835|Screening|1
+318|534|843|Screening||1/5/2020|DCA point of care|7.3
+319|129|848|Screening||6/18/2020|DCA point of care|7.1
+320|17|855|Screening|1
+321|556|857|Screening||12/15/2020|DCA point of care|8.8
+323|570|864|Screening||4/10/2020|DCA point of care|7.1
+324|41|866|Screening|1
+325|343|869|Screening||5/28/2020|DCA point of care|8.1
+326|191|875|Screening||5/21/2020|DCA point of care|7.7
+327|228|881|Screening||9/19/2020|DCA point of care|8.8
+328|328|883|Screening|1
+330|558|904|Screening|1
+331|564|907|Screening|1
+332|430|916|Screening|1
+333|131|919|Screening|1
+334|152|920|Screening||9/28/2020|DCA point of care|7.6
+335|589|952|Screening||3/11/2020|DCA point of care|8.8
+336|308|954|Screening||8/9/2020|DCA point of care|10.4
+337|104|956|Screening|1
+339|169|974|Screening|1
+340|222|1020|Screening|1
+341|592|1027|Screening|1
+343|224|1091|Screening|1
+344|16|1103|Screening|1
+345|244|1123|Screening|1
+346|158|1138|Screening|1
+347|90|1157|Screening|1
+349|267|1195|Screening||7/26/2020|Lab|10.2
+350|81|1198|Screening|1
+351|116|1213|Screening|1
+353|299|1240|Screening|1
+354|339|1272|Screening|1
+355|3|1295|Screening||7/19/2020|DCA point of care|7.0
+356|251|1304|Screening|1
+357|516|1321|Screening||6/17/2020|Lab|7.4
+358|250|1327|Screening||2/12/2020|DCA point of care|6.8
+359|452|1329|Screening||11/14/2020|DCA point of care|8.3
+360|178|1330|Screening||7/17/2020|Lab|6.1
+361|358|1408|Screening||2/8/2020|DCA point of care|7.5
+362|594|1420|Screening|1
+363|53|1436|Screening|1
+364|432|1460|Screening||9/18/2020|Afinion point of care|7.7
+365|177|1462|Screening||2/9/2020|Lab|9.6
+366|289|1465|Screening|1
+367|481|1469|Screening|1
+368|483|1473|Screening||6/14/2020|DCA point of care|6.7
+369|292|1492|Screening|1
+370|499|1495|Screening||10/29/2020|Lab|6.4
+371|573|1514|Screening||7/25/2020|Lab|8.2
+372|372|1539|Screening|1
+373|103|1544|Screening||11/7/2020|DCA point of care|7.5
+374|11|1621|Screening|1
+375|138|1622|Screening||1/29/2020|DCA point of care|6.6
+376|391|1646|Screening||5/4/2020|DCA point of care|8.5
+377|412|1652|Screening||7/28/2020|DCA point of care|8.6
+378|315|1664|Screening||6/1/2020|Lab|8.5
+379|441|1677|Screening|1
+380|505|1691|Screening||10/21/2020|Lab|9.0
+381|45|1692|Screening||5/3/2020|DCA point of care|7.9
+382|142|1698|Screening||3/19/2020|DCA point of care|6.9
+383|247|1703|Screening||4/26/2020|DCA point of care|7.1
+384|15|1717|Screening||10/23/2020|DCA point of care|8.8
+386|371|1727|Screening||1/11/2021|DCA point of care|9.0
+387|43|1750|Screening||8/12/2020|Lab|9.3
+388|21|1756|Screening|1
+389|240|1766|Screening|1
+390|303|1808|Screening||6/25/2020|DCA point of care|8.1
+391|293|1812|Screening||1/30/2021|DCA point of care|8.0
+392|164|1820|Screening|1
+393|58|1827|Screening||10/23/2020|Afinion point of care|9.0
+394|290|1867|Screening|1
+395|34|1887|Screening||9/7/2020|Lab|8.4
+396|306|1908|Screening|1
+397|331|1912|Screening||4/27/2020|Lab|8.4
+398|514|1937|Screening|1
+399|253|1959|Screening||9/8/2020|DCA point of care|6.7
+400|182|2009|Screening||5/19/2020|Lab|8.0
+401|19|2011|Screening||9/6/2020|Lab|7.1
+402|335|2182|Screening|1
+403|402|2292|Screening||10/29/2020|DCA point of care|8.3
+404|56|2380|Screening||3/22/2021|DCA point of care|7.5
+405|161|2501|Screening||4/5/2020|DCA point of care|6.1
+406|4|2520|Screening|1
+408|490|2641|Screening|1
+409|585|2863|Screening|1
+410|241|2944|Screening|1
+412|563|3040|Screening||8/31/2020|Lab|8.5
+413|79|3147|Screening|1
+414|542|3223|Screening|1
+416|405|3337|Screening|1
+417|532|3386|Screening|1
+418|582|3438|Screening||10/30/2020|Lab|10.0
+419|313|3482|Screening||6/24/2020|Lab|8.9
+420|203|3560|Screening||8/18/2020|Afinion point of care|7.9
+421|175|3570|Screening||9/13/2020|Afinion point of care|8.2
+422|14|3573|Screening||3/11/2021|Afinion point of care|8.7
+423|474|3579|Screening||3/6/2021|DCA point of care|6.5
+424|410|3584|Screening|1
+425|60|3595|Screening||11/9/2020|Afinion point of care|7.2
+426|408|3602|Screening|1
+427|291|3613|Screening||5/18/2020|Afinion point of care|8.4
+428|55|3620|Screening||6/1/2020|DCA point of care|9.8
+429|355|3628|Screening|1
+432|350|3727|Screening|1
+433|482|3731|Screening|1
+435|411|3776|Screening|1
+436|360|3793|Screening||3/30/2021|Afinion point of care|9.1
+437|383|3799|Screening||10/7/2020|Afinion point of care|7.3
+438|498|3862|Screening||6/20/2020|DCA point of care|8.4
+440|188|3907|Screening|1
+442|89|3923|Screening|1
+443|476|3952|Screening|1
+444|470|3973|Screening||7/16/2020|DCA point of care|8.0
+445|591|3979|Screening||3/28/2021|Lab|8.4
+446|322|4010|Screening||5/16/2020|DCA point of care|7.5
+448|547|4043|Screening||5/21/2020|Afinion point of care|8.4
+449|503|4060|Screening|1
+450|424|4086|Screening||2/15/2021|Afinion point of care|7.7
+451|260|4091|Screening|1
+452|151|4140|Screening||9/2/2020|Lab|7.7
+453|527|4143|Screening|1
+455|57|4160|Screening|1
+456|429|4166|Screening|1
+457|273|4205|Screening|1
+458|283|4226|Screening||7/31/2020|Lab|7.5
+459|492|4276|Screening|1
+460|133|4292|Screening||11/4/2020|Afinion point of care|7.7
+461|330|4317|Screening|1
+462|62|4339|Screening|1
+463|302|4369|Screening||5/16/2020|Lab|12.2
+464|494|4406|Screening||4/27/2021|Lab|8.8
+465|121|4409|Screening|1
+466|593|4441|Screening||6/16/2020|Lab|11.4
+467|373|4465|Screening||3/6/2021|Afinion point of care|8.6
+468|67|4494|Screening||10/11/2020|DCA point of care|13.0
+469|559|4507|Screening|1
+470|230|4524|Screening|1
+471|364|4548|Screening|1
+472|460|4552|Screening||8/2/2020|DCA point of care|8.5
+473|282|4617|Screening||7/28/2020|DCA point of care|8.2
+474|366|4619|Screening|1
+475|234|4671|Screening|1
+476|349|4675|Screening||2/2/2021|DCA point of care|9.6
+477|539|4744|Screening|1
+478|150|4791|Screening|1
+479|512|4802|Screening||3/10/2021|DCA point of care|8.4
+480|346|4860|Screening||12/27/2020|Afinion point of care|10.8
+481|144|4987|Screening||11/18/2020|DCA point of care|10.3
+482|510|4995|Screening||1/1/2021|DCA point of care|7.9
+483|239|5022|Screening||9/4/2020|DCA point of care|7.7
+484|336|5032|Screening||10/13/2020|DCA point of care|7.5
+485|428|5056|Screening||12/9/2020|DCA point of care|7.4
+486|352|5103|Screening||2/19/2021|DCA point of care|7.5
+487|163|5167|Screening|1
+488|297|5255|Screening||10/6/2020|DCA point of care|7.6
+489|324|5272|Screening|1
+490|560|5324|Screening||11/7/2020|DCA point of care|10.2
+491|68|5341|Screening|1
+492|143|5362|Screening||5/30/2021|DCA point of care|8.6

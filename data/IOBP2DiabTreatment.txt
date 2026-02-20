@@ -1,0 +1,497 @@
+RecID|PtID|ParentLoginVisitID|Visit|InsModPump|InsModInjections|InsModInhaled|InsModNone|PumpUse|PumpType|PumpTypeUnk|UnitsInsTotal|UnitsInsUnk|UnitsInsBasilOrLongAct|UnitsInsBasilOrLongActUnk|NumPumpBolusOrShortAct|NumPumpBolusOrShortActUnk|BGTestAvgNumMeter|BGTestMetDatNotAvail|BGTestAvgNumPtRep|BGTestPtRepNotAvail|BGTestMeterFreq|BGTestPtRepFreq
+1|71|1291|Week 2|1|||||Beta Bionics Gen 4 iLet||91.4||70.0||3||15.0||15.0||per week|per week
+2|529|1350|Week 2|1|||||Beta Bionics Gen 4 iLet||25.7|||1|4||0.0||0.0||per day|per day
+3|586|1351|Week 2|1|||||Beta Bionics Gen 4 iLet||20.6|||1|4||4.0|||1|per week
+4|23|1352|Week 2|1|||||Beta Bionics Gen 4 iLet||41.9|||1|3||0.0||0.0||per day|per day
+5|254|1354|Week 2|1|||||Beta Bionics Gen 4 iLet||37.5|||1|4||0.0||0.0||per day|per day
+6|287|1355|Week 2||1||||||111.0||40.0||5|||1|1.0|||per week
+7|462|1357|Week 2|1|||||Beta Bionics Gen 4 iLet||83.2|||1|3||0.0||0.0||per day|per day
+8|217|1359|Week 2|1|||||Beta Bionics Gen 4 iLet||51.4||25.8||4||1.0||1.0||per day|per week
+9|24|1414|Week 2|1|||||Tandem t:slim X2||41.6||21.8||8|||1|1.0|||per day
+10|212|1424|Week 2|1|||||Medtronic 670G||50.3||24.9||5|||1|2.0|||per week
+11|531|1442|Week 2|1|||||Tandem t:slim X2 with Basal:IQ||79.8||37.7||8|||1||1
+12|475|1443|Week 2|1|||||Tandem t:slim X2 with Control:IQ||121.0||62.0||7|||1|1.0|||per week
+13|553|1444|Week 2|1|||||Medtronic 670G||45.3||17.2||6||3.0|||1|per week
+14|63|1445|Week 2|1|||||Beta Bionics Gen 4 iLet||92.7||37.2||3||8.0|||1|per week
+15|392|1446|Week 2|1|||||Beta Bionics Gen 4 iLet||54.1||26.4||3||14.0|||1|per week
+16|48|1447|Week 2|1|||||Beta Bionics Gen 4 iLet||25.7||10.2||3||3.0|||1|per week
+17|519|1448|Week 2|1|||||Beta Bionics Gen 4 iLet||49.6|||1|2||1.0|||1|per day
+18|72|1450|Week 2|1|||||Beta Bionics Gen 4 iLet||49.0||26.0||3||0.0||0.0||per day|per day
+19|120|1452|Week 2||1||||||57.0||17.0||4|||1||1
+20|226|1456|Week 2|1|||||Beta Bionics Gen 4 iLet||33.2||16.8||3||1.0||1.0||per week|per week
+21|362|1457|Week 2||1||||||30.0||17.0||4|||1||1
+22|284|1459|Week 2|1|||||Tandem t:slim||24.7||6.5||4|||1||1
+23|271|1463|Week 2|1|||||Beta Bionics Gen 4 iLet||25.7|||1|2||0.0||0.0||per day|per day
+24|31|1475|Week 2|1|||||Beta Bionics Gen 4 iLet||52.7|||1|4||1.0||1.0||per day|per day
+25|39|1476|Week 2|1|||||Beta Bionics Gen 4 iLet||140.0|||1|4||3.0||1.0||per week|per week
+26|137|1484|Week 2|1|||||Beta Bionics Gen 4 iLet||46.5|||1|3||1.0||1.0||per week|per week
+27|168|1485|Week 2|1|||||Beta Bionics Gen 4 iLet||97.5|||1|3||7.0||2.0||per week|per week
+28|590|1486|Week 2|1|||||Beta Bionics Gen 4 iLet|||1|20.4||5|||1|1.0|||per day
+29|280|1488|Week 2|1||||||1|38.0||3.0||35|||1|4.0|||per day
+30|258|1494|Week 2|1|||||Beta Bionics Gen 4 iLet||54.0||27.6||3||2.0||2.0||per week|per week
+31|338|1498|Week 2|1|||||Beta Bionics Gen 4 iLet||84.9||40.2||3||1.0||1.0||per week|per week
+32|295|1500|Week 2|1|||||Beta Bionics Gen 4 iLet||25.0|||1||1|7.0||7.0||per week|per week
+33|304|1502|Week 2||1||||||9.0||3.0||4|||1|15.0|||per day
+34|185|1505|Week 2|1|||||Beta Bionics Gen 4 iLet||64.4||39.0||3||2.0||2.0||per week|per week
+35|154|1506|Week 2|1|||||Beta Bionics Gen 4 iLet||49.1||19.0||4||3.0||3.0||per week|per week
+36|29|1507|Week 2|1|||||Tandem t:slim||64.0||32.0||4|||1|2.0|||per day
+37|477|1508|Week 2|1|||||Tandem t:slim||38.1||16.6||7|||1|6.0|||per day
+38|209|1509|Week 2|1|||||Beta Bionics Gen 4 iLet||20.9|||1||1|14.0|||1|per week
+39|281|1510|Week 2|1|||||Beta Bionics Gen 4 iLet|||1|37.2||3||7.0|||1|per week
+40|104|1511|Week 2||1||||||59.0||26.0||3|||1|0.0|||per day
+41|486|1516|Week 2|1|||||Tandem t:slim X2 with Control:IQ||32.6||24.0||2||0.0||0.0||per day|per day
+42|365|1519|Week 2|1|||||Beta Bionics Gen 4 iLet||30.5||19.0||3|||1||1
+43|581|1520|Week 2|1|||||Beta Bionics Gen 4 iLet||42.7||20.4||2||0.0|||1|per week
+44|437|1522|Week 2|1|||||Tandem t:slim||89.6||25.9||3|||1||1
+45|502|1523|Week 2|1|||||Beta Bionics Gen 4 iLet||62.4||32.8||2||0.0||0.0||per day|per day
+46|423|1526|Week 2|1|||||Beta Bionics Gen 4 iLet||43.4|||1|2||1.0||1.0||per week|per week
+47|16|1527|Week 2||1||||||140.0||50.0||4|||1|1.0|||per week
+48|274|1529|Week 2|1|||||Insulet OmniPod Insulin Management System||24.6||7.2||3|||1||1
+49|569|1530|Week 2|1|||||Beta Bionics Gen 4 iLet||44.1|||1|3||0.0||2.0||per day|per week
+50|279|1531|Week 2|1|||||Beta Bionics Gen 4 iLet|||1|20.0||4|||1||1
+51|259|1532|Week 2||1||||||46.0||21.0||6|||1|1.0|||per day
+52|438|1535|Week 2|1|||||Beta Bionics Gen 4 iLet||52.8||24.6||3|||1|1.0|||per day
+53|40|1537|Week 2|1|||||Other||19.8||10.0||5|||1|8.0|||per day
+54|404|1538|Week 2|1|||||Beta Bionics Gen 4 iLet||32.4||13.0||3||2.0||2.0||per week|per week
+55|276|1540|Week 2|1|||||Beta Bionics Gen 4 iLet||52.5|||1|2||0.0||1.0||per day|per week
+56|183|1542|Week 2|1|||||Other|||1||1||1|2.0||0.0||per week|per day
+57|157|1543|Week 2|1|||||Medtronic 670G||46.7||20.3||7|||1|2.0|||per day
+58|541|1546|Week 2|1|||||Beta Bionics Gen 4 iLet||41.2||25.0||4|||1||1
+59|318|1547|Week 2|1|||||Beta Bionics Gen 4 iLet||45.7|||1|4||6.0||2.0||per week|per week
+60|546|1548|Week 2|1|||||Beta Bionics Gen 4 iLet||68.0|||1|3||0.0||2.0||per week|per week
+61|238|1549|Week 2|1|||||Tandem t:slim X2 with Control:IQ||54.1||21.2||12|||1|1.0|||per day
+62|480|1550|Week 2|1|||||Other||36.1||17.0|||1||1|0.0|||per week
+63|59|1551|Week 2|1|||||Beta Bionics Gen 4 iLet||31.2||12.6||3||8.0|||1|per week
+64|97|1553|Week 2|1|||||Beta Bionics Gen 4 iLet||42.3|||1|3||8.0||8.0||per week|per week
+65|85|1554|Week 2|1|||||Tandem t:slim X2 with Control:IQ||39.9||23.5||3|||1|3.0|||per week
+66|171|1555|Week 2|1|||||Beta Bionics Gen 4 iLet||30.4|||1|3||0.0||1.0||per day|per day
+67|94|1556|Week 2|1|||||Beta Bionics Gen 4 iLet||15.9|||1||1||1|2.0|||per day
+68|517|1557|Week 2|1|||||Tandem t:slim X2 with Control:IQ||75.0||60.0||3|||1|2.0|||per week
+69|235|1560|Week 2|1|||||Beta Bionics Gen 4 iLet|||1|11.0||4|||1|1.0|||per day
+70|551|1561|Week 2|1|||||Beta Bionics Gen 4 iLet|||1||1|4|||1|1.0|||per week
+71|457|1564|Week 2|1|||||Beta Bionics Gen 4 iLet||43.8||22.2||3||1.0||1.0||per week|per week
+72|181|1565|Week 2|1|||||Beta Bionics Gen 4 iLet||58.0|||1||1|1.0||1.0||per day|per week
+73|261|1566|Week 2|1|||||Beta Bionics Gen 4 iLet||72.7|||1||1|1.0|||1|per week
+74|543|1567|Week 2|1|||||Beta Bionics Gen 4 iLet||21.3|||1||1|3.0|||1|per week
+75|93|1568|Week 2|1|||||Beta Bionics Gen 4 iLet|||1|14.0||3|||1|0.0|||per day
+76|459|1569|Week 2|1|||||Beta Bionics Gen 4 iLet||47.5|||1||1||1|1.0|||per week
+77|439|1570|Week 2|1|||||Tandem t:slim X2 with Control:IQ||66.9||40.2||4|||1|2.0|||per week
+78|344|1571|Week 2|1|||||Beta Bionics Gen 4 iLet||28.1||16.0||1||1.0||1.0||per day|per day
+79|497|1572|Week 2|1|||||Beta Bionics Gen 4 iLet||55.0||25.0||4||0.0||0.0||per day|per day
+80|148|1575|Week 2|1|||||Beta Bionics Gen 4 iLet|||1|52.0|||1||1||1
+81|580|1577|Week 2|1|||||Beta Bionics Gen 4 iLet||89.5||37.0||3|||1||1
+82|574|1578|Week 2|1|||||Other||92.5||44.0||3|||1|0.0|||per week
+83|417|1579|Week 2|1|||||Beta Bionics Gen 4 iLet||75.0|||1|3||3.0||1.0||per week|per day
+84|577|1580|Week 2|1|||||Beta Bionics Gen 4 iLet||88.1||43.2||3|||1||1
+85|135|1585|Week 2|1|||||Beta Bionics Gen 4 iLet||50.0||24.0||2|||1|0.0|||per day
+86|567|1586|Week 2|1|||||Beta Bionics Gen 4 iLet|||1|22.0||3|||1|1.0|||per day
+87|367|1588|Week 2|1|||||Insulet OmniPod Insulin Management System||41.4||18.0||3||0.0||0.0||per day|per day
+88|118|1592|Week 2||1||||||60.0||40.0||3|||1|1.0|||per week
+89|449|1608|Week 2|1|||||Insulet OmniPod Insulin Management System||17.0||7.0||3|||1||1
+90|549|1638|Week 2|1|||||Medtronic 640G||34.0||19.0||4|||1||1
+91|153|1689|Week 2|1|||||Beta Bionics Gen 4 iLet||29.7|||1|3||0.0||1.0||per week|per week
+92|191|1697|Week 2|1|||||Beta Bionics Gen 4 iLet||44.4|||1|4|||1|0.0|||per day
+93|46|1719|Week 2||1||||||26.0||6.0||4|||1||1
+94|24|1726|Week 6|1|||||Tandem t:slim X2||43.2||20.2||9|||1|1.0|||per week
+95|104|1733|Week 6||1||||||63.0||26.0||4|||1|0.0|||per day
+96|212|1760|Week 6|1|||||Medtronic 670G||53.4||24.9||6|||1|4.0|||per week
+97|238|1761|Week 6|1|||||Tandem t:slim X2 with Control:IQ||53.8||21.4||7||2.0||0.0||per week|per week
+98|287|1771|Week 6||1||||||111.0||40.0||5|||1||1
+99|362|1773|Week 6||1||||||40.0||17.0||3|||1||1
+100|475|1774|Week 6|1|||||Tandem t:slim X2 with Control:IQ||125.1||60.0||11|||1|3.0|||per week
+101|422|1792|Week 2|1|||||Tandem t:slim X2 with Basal:IQ||35.4||11.9||5|||1||1
+102|553|1798|Week 6|1|||||Medtronic 670G||44.0||17.3||6||0.0||0.0||per week|per week
+103|120|1804|Week 6||1||||||55.0||20.0||4|||1||1
+104|477|1816|Week 6|1|||||Tandem t:slim||37.0||17.0||4||6.0||6.0||per day|per day
+105|284|1826|Week 6|1|||||Tandem t:slim X2 with Control:IQ||21.5||6.6||4|||1||1
+106|16|1833|Week 6||1||||||145.0||50.0||4|||1||1
+107|531|1841|Week 6|1|||||Tandem t:slim X2 with Basal:IQ||93.0||38.0||8|||1||1
+108|259|1842|Week 6||1||||||35.0||21.0||6|||1|0.0|||per day
+109|40|1848|Week 6|1|||||Other||19.1||10.5||9|||1|8.0|||per day
+110|437|1855|Week 6|1|||||Tandem t:slim X2 with Control:IQ||138.0||25.5||6|||1||1
+111|517|1856|Week 6|1|||||Tandem t:slim X2 with Basal:IQ||95.0||58.5||4||0.0||0.0||per day|per day
+112|85|1862|Week 6|1|||||Tandem t:slim X2 with Control:IQ||38.0||21.0||3||0.0||0.0||per day|per day
+113|486|1869|Week 6|1|||||Tandem t:slim X2 with Control:IQ||33.7||25.2||2||0.0||0.0||per week|per week
+114|422|1877|Week 6|1|||||Tandem t:slim X2 with Basal:IQ||34.8||11.0||9|||1||1
+115|46|1883|Week 6||1||||||30.0||7.0||6|||1||1
+116|449|1886|Week 6|1|||||Insulet OmniPod Insulin Management System||10.7||7.9||2|||1|1.0|||per week
+117|439|1925|Week 6|1|||||Tandem t:slim X2 with Control:IQ||69.4||40.7||4|||1|0.0|||per week
+118|29|1947|Week 6|1|||||Tandem t:slim||70.0||36.0||7|||1||1
+119|118|1950|Week 6||1||||||48.0||38.0||4|||1|0.0|||per day
+120|212|2025|Week 10|1|||||Medtronic 670G||52.1||25.0||7||0.0||3.0||per week|per week
+121|157|2038|Week 6|1|||||Medtronic 670G||37.0||16.0||6|||1|0.0|||per day
+122|24|2047|Week 10|1|||||Tandem t:slim X2||43.7||20.6||7|||1|1.0|||per week
+123|238|2086|Week 10|1|||||Tandem t:slim X2 with Control:IQ||50.7||20.4||11||0.0||3.0||per week|per week
+124|362|2090|Week 10||1||||||40.0||17.0||4|||1||1
+125|284|2117|Week 10|1|||||Tandem t:slim X2 with Control:IQ||23.8||8.1||6|||1||1
+126|553|2119|Week 10|1|||||Medtronic 670G||40.8||17.2||7||0.0||0.0||per week|per week
+127|531|2128|Week 10|1|||||Tandem t:slim X2 with Control:IQ||98.3||35.7||9|||1||1
+128|475|2131|Week 10|1|||||Tandem t:slim X2 with Control:IQ||121.9||51.1||11|||1||1
+129|477|2160|Week 10|1|||||Tandem t:slim||31.0||18.1||4||1.0||4.0||per week|per week
+130|29|2161|Week 10|1|||||Tandem t:slim X2 with Control:IQ||61.0||27.3||6|||1|2.0|||per week
+131|120|2186|Week 10||1||||||55.0||18.0||3|||1||1
+132|104|2218|Week 10||1||||||64.0||26.0||3||30.0|||1|per day
+133|486|2235|Week 10|1|||||Tandem t:slim X2 with Control:IQ||33.2||25.1||2||0.0||0.0||per week|per week
+134|40|2236|Week 10|1|||||Insulet OmniPod Insulin Management System||20.4||10.6||4|||1|9.0|||per day
+135|157|2238|Week 10|1|||||Medtronic 670G||40.7||17.4||7|||1|0.0|||per day
+136|201|2241|Week 2||1||||||57.0||28.0||4|||1||1
+137|439|2264|Week 10|1|||||Tandem t:slim X2 with Control:IQ||69.0||42.2||3|||1|0.0|||per week
+138|375|2270|Week 2|1|||||Insulet OmniPod Insulin Management System||30.7||14.6||7|||1|3.0|||per week
+139|118|2285|Week 10||1||||||53.0||38.0||4|||1|0.0|||per day
+140|517|2289|Week 10|1|||||Tandem t:slim X2 with Basal:IQ||84.0||59.0||4||0.0||0.0||per day|per day
+141|146|2293|Week 2|1|||||Tandem t:slim X2 with Control:IQ||49.0||21.4||10|||1|5.0|||per week
+142|449|2303|Week 10|1|||||Insulet OmniPod Insulin Management System||14.0||10.0||2|||1|2.0|||per week
+143|259|2310|Week 10||1||||||35.0||21.0||6|||1|0.0|||per day
+144|437|2325|Week 10|1|||||Tandem t:slim X2 with Control:IQ||171.5||26.3||5|||1||1
+145|458|2328|Week 2||1||||||45.0||18.0||5|||1|1.0|||per week
+146|228|2341|Week 2||1||||||29.0||14.0||4|||1|3.0|||per week
+147|422|2354|Week 10|1|||||Tandem t:slim X2 with Basal:IQ||32.3||10.8||9|||1||1
+148|215|2355|Week 2||1||||||38.0||22.0||21|||1|0.0|||per week
+149|85|2363|Week 10|1|||||Tandem t:slim X2 with Control:IQ||42.0||22.0||3|||1|0.0|||per day
+150|16|2402|Week 10||1||||||150.0||50.0||4|||1|0.0|||per week
+151|265|2428|Week 2||1||||||57.0||27.0||4|||1|1.0|||per day
+152|540|2432|Week 2||1||||||83.0||36.0||5|||1||1
+153|169|2482|Week 2|1|||||Tandem t:slim X2 with Control:IQ||65.0||32.0||4|||1|0.0|||per day
+154|303|2483|Week 2||1||||||180.0||75.0||4|||1|3.0|||per week
+155|345|2527|Week 2|1|||||Medtronic 670G||72.3||31.0||2|||1|10.0|||per day
+156|530|2544|Week 2|1|||||Medtronic 630G||22.8||17.8||5|||1|1.0|||per week
+157|98|2572|Week 2||1||||||24.0||9.0||6|||1|3.0|||per day
+158|320|2578|Week 2||1||||||64.0||24.0||4|||1||1
+159|46|2612|Week 10||1||||||30.0||7.0||6|||1||1
+160|287|2613|Week 10||1||||||111.0||40.0||5|||1||1
+161|287|2662|Week 13||1||||||120.0||40.0||4|||1||1
+162|553|2673|Week 13|1|||||Medtronic 670G||42.0||17.2||5||0.0|||1|per week
+163|448|2705|Week 2||1||||||78.0||50.0||3||0.0||0.0||per day|per day
+164|433|2718|Week 2|1|||||Tandem t:slim X2 with Control:IQ||23.6||11.6||3|||1|1.0|||per day
+165|86|2743|Week 2|1|||||Medtronic 670G||33.3||23.9||6|||1|7.0|||per day
+166|406|2755|Week 2|1|||||Medtronic 670G||25.0||8.0||2||2.0|||1|per day
+167|395|2772|Week 2|1|||||Insulet OmniPod Insulin Management System||26.0||11.4||4|||1|1.0|||per week
+168|531|2775|Week 13|1|||||Tandem t:slim X2 with Basal:IQ||94.3||35.3||7|||1||1
+169|399|2778|Week 2|1|||||Tandem t:slim X2 with Control:IQ||31.0||18.5||4|||1|0.0|||per week
+170|120|2779|Week 13||1||||||65.0||20.0||4|||1||1
+171|29|2793|Week 13|1|||||Tandem t:slim X2 with Control:IQ||55.5||22.4||11|||1|2.0|||per week
+172|403|2826|Week 2|1|||||Insulet OmniPod Insulin Management System||57.0||26.8||4|||1||1
+173|481|2836|Week 2||1||||||16.5||11.0||2|||1||1
+174|362|2854|Week 13||1||||||40.0||17.0||4|||1||1
+175|24|2867|Week 13|1|||||Tandem t:slim||45.3||24.7||7|||1|1.0|||per week
+176|505|2889|Week 2|1|||||Insulet OmniPod Insulin Management System||33.5||10.7||6|||1|20.0|||per week
+177|117|2901|Week 2|1|||||Tandem t:slim X2 with Control:IQ||75.0||33.0||6||0.0||0.0||per day|per day
+178|343|2908|Week 2|1|||||Insulet OmniPod Insulin Management System||40.0||16.3||5|||1|1.0|||per week
+179|477|2931|Week 13|1|||||Tandem t:slim X2||40.0||20.0||5|||1|1.0|||per week
+180|382|2950|Week 2||1||||||96.0||50.0||6|||1||1
+181|475|2954|Week 13|1|||||Tandem t:slim X2 with Control:IQ||125.0||63.4||8||0.0||0.0||per day|per day
+182|259|2961|Week 13||1||||||56.0||21.0||6|||1|1.0|||per week
+183|449|2962|Week 13|1|||||Insulet OmniPod Insulin Management System||16.3||11.1||2|||1|3.0|||per day
+184|40|2969|Week 13|1|||||Insulet OmniPod Insulin Management System||23.0||11.0||5|||1|4.0|||per week
+185|499|2975|Week 2|1|||||Insulet OmniPod Insulin Management System||83.6||23.7||5|||1|2.0|||per week
+186|118|2978|Week 13||1||||||56.0||40.0||4|||1|0.0|||per day
+187|284|2998|Week 13|1|||||Tandem t:slim X2 with Control:IQ||22.8||7.7||6|||1||1
+188|311|2999|Week 2|1|||||Medtronic 670G||26.1||7.8||6|||1|5.3|||per day
+189|238|3003|Week 13|1|||||Tandem t:slim X2 with Control:IQ||50.0||21.0||7||0.0||0.0||per day|per day
+190|566|3047|Week 2||1||||||52.0||16.0||5||0.0||0.0||per day|per day
+191|212|3058|Week 13|1|||||Medtronic 670G||53.0||25.0||6|||1|1.0|||per week
+192|558|3075|Week 2|1|||||Insulet OmniPod Insulin Management System||35.0||13.4||5|||1|0.0|||per week
+193|104|3076|Week 13||1||||||59.0||26.0||4|||1|0.0|||per day
+194|486|3091|Week 13|1|||||Tandem t:slim X2 with Control:IQ||34.1||25.7||2|||1|0.0|||per week
+195|46|3104|Week 13||1||||||38.0||7.0||5|||1||1
+196|16|3166|Week 13||1||||||140.0||50.0||4|||1|0.0|||per day
+197|215|3185|Week 6||1||||||42.0||20.0||5|||1|0.0|||per week
+198|157|3203|Week 13|1|||||Medtronic 670G||37.8||15.0||7|||1|1.0|||per week
+199|169|3208|Week 6|1|||||Tandem t:slim X2 with Control:IQ||70.6||33.9||4|||1|0.0|||per day
+200|439|3250|Week 13|1|||||Tandem t:slim X2 with Control:IQ||66.4||38.3||9|||1|0.0|||per week
+201|550|3254|Week 2|1|||||Other||29.3||17.7||6|||1|2.0|||per day
+202|422|3296|Week 13|1|||||Tandem t:slim X2 with Basal:IQ||32.5||10.9||9|||1||1
+203|458|3299|Week 6||1||||||32.0||18.0||5|||1|0.0|||per week
+204|437|3305|Week 13|1|||||Tandem t:slim X2 with Control:IQ||132.0||42.2||3|||1|1.0|||per week
+205|517|3308|Week 13|1|||||Tandem t:slim X2 with Basal:IQ||92.0||60.0||4||0.0||0.0||per day|per day
+206|146|3320|Week 6|1|||||Tandem t:slim X2 with Control:IQ||49.8||22.4||11|||1|8.0|||per week
+207|11|3333|Week 2|1|||||Tandem t:slim X2 with Control:IQ||21.7||10.0||5|||1|0.0|||per week
+208|85|3353|Week 13|1|||||Tandem t:slim X2 with Control:IQ||44.5||24.3||3||0.0||0.0||per day|per day
+209|102|3372|Week 2|1|||||Insulet OmniPod Insulin Management System||49.3||24.0||6|||1||1
+210|201|3375|Week 6||1||||||61.0||28.0||7|||1||1
+211|540|3384|Week 6||1||||||97.0||36.0||6|||1||1
+212|375|3388|Week 6|1|||||Insulet OmniPod Insulin Management System|||1||1|6|||1|2.0|||per week
+213|216|3390|Week 2|1|||||Insulet OmniPod Insulin Management System||40.0||19.0||5|||1||1
+214|265|3407|Week 6||1||||||54.0||26.0||7|||1||1
+215|161|3408|Week 2|1|||||Tandem t:slim X2 with Control:IQ||52.4||25.1||5|||1|0.0|||per week
+216|41|3426|Week 2|1|||||Insulet OmniPod Insulin Management System||45.0||13.5||9|||1|1.0|||per week
+217|416|3427|Week 2|1|||||Medtronic 551 (530G)||70.6||31.5||6|||1|4.0|||per day
+218|231|3460|Week 2|1|||||Medtronic Paradigm 512||37.0||22.4||5|||1||1
+219|403|3464|Week 6|1|||||Insulet OmniPod Insulin Management System||50.5||22.7||5|||1||1
+220|320|3469|Week 6||1||||||64.0||24.0||4|||1||1
+221|228|3497|Week 6||1||||||29.0||14.0||3|||1|3.0|||per week
+222|420|3498|Week 2|1|||||Medtronic 670G||59.4||28.1||5|||1|4.0|||per day
+223|530|3516|Week 6|1|||||Medtronic 630G||26.9||9.2||5||0.0||0.0||per day|per day
+224|129|3544|Week 2|1|||||Medtronic 670G||15.2||7.6||5|||1||1
+225|345|3568|Week 6|1|||||Medtronic 670G||80.0||31.9||6|||1|2.0|||per week
+226|35|3597|Week 2||1||||||33.0||23.0||4|||1|1.0|||per week
+227|98|3627|Week 6||1||||||19.0||9.0||19|||1|3.0|||per day
+228|303|3650|Week 6||1||||||200.0||75.0||5|||1|0.0|||per week
+229|49|3680|Week 2|1|||||Medtronic 670G||59.8||27.2||32|||1|0.0|||per day
+230|244|3682|Week 2|1|||||Tandem t:slim X2||71.0||39.0||5|||1||1
+231|343|3754|Week 6|1|||||Insulet OmniPod Insulin Management System||40.0||16.3||4|||1|2.0|||per week
+232|587|3763|Week 2||1||||||30.0||14.0||4|||1|2.0|||per week
+233|406|3764|Week 6|1|||||Medtronic 670G||24.0||11.0||4|||1|0.0|||per day
+234|142|3774|Week 2||1||||||65.0||38.0||5|||1|1.0|||per day
+235|448|3791|Week 6||1||||||92.0||52.0||3|||1|1.0|||per day
+236|484|3795|Week 2|1|||||Tandem t:slim X2 with Control:IQ||23.0||12.0||9|||1|1.0|||per day
+237|380|3797|Week 2|1|||||Medtronic 670G||99.7||69.7||5|||1|0.0|||per day
+238|563|3822|Week 2|1|||||Insulet OmniPod Insulin Management System||54.2||19.1||5|||1|1.0|||per week
+239|152|3823|Week 2|1|||||Medtronic 670G||23.7||12.3||6|||1||1
+240|481|3829|Week 6||1||||||18.0||11.0||4|||1||1
+241|114|3832|Week 2||1||||||42.0||13.0||3|||1|2.0|||per week
+242|52|3848|Week 2||1||||||45.0||16.0||8|||1|0.0|||per week
+243|545|3850|Week 2||1||||||45.0||16.0||8|||1|0.0|||per week
+244|585|3860|Week 2||1||||||16.5||11.0||5|||1|0.0|||per week
+245|381|3872|Week 2|1|||||Tandem t:slim X2 with Control:IQ||9.0||5.3||5|||1|6.0|||per day
+246|433|3879|Week 6|1|||||Tandem t:slim X2 with Control:IQ||45.7||25.4||2|||1|1.0|||per day
+247|505|3883|Week 6|1|||||Insulet OmniPod Insulin Management System||32.3||11.5||5|||1|6.0|||per day
+248|86|3886|Week 6|1|||||Medtronic 670G||32.9||23.4||6|||1|6.0|||per day
+249|368|3899|Week 2||1||||||20.0||7.0||5|||1|1.0|||per week
+250|267|3902|Week 2|1|||||Medtronic 670G||43.0||30.0||4|||1|3.0|||per day
+251|308|3903|Week 2|1|||||Other|||1||1||1||1||1
+252|399|3913|Week 6|1|||||Tandem t:slim X2 with Control:IQ||31.0||19.0||4|||1|0.0|||per week
+253|117|3941|Week 6|1|||||Tandem t:slim X2 with Control:IQ||72.4||32.4||5||0.0||0.0||per day|per day
+254|147|3943|Week 2|1|||||Tandem t:slim X2 with Basal:IQ||40.8||14.3||7|||1|0.0|||per week
+255|77|3961|Week 2|1|||||Tandem t:slim X2 with Basal:IQ||26.5||10.6||4|||1|0.0|||per day
+256|499|3965|Week 6|1|||||Insulet OmniPod Insulin Management System||88.3||23.1||6|||1|0.0|||per week
+257|533|3968|Week 2||1||||||150.0||41.0||5|||1|0.0|||per day
+258|532|3991|Week 2||1||||||51.0||25.0||3||0.0||0.0||per day|per day
+259|370|3994|Week 2|1|||||Insulet OmniPod Insulin Management System||35.0||16.9||8|||1||1
+260|575|3996|Week 2|1|||||Medtronic 670G||78.5||51.4||3|||1|4.0|||per day
+261|15|4004|Week 2||1||||||39.0||20.0||4|||1||1
+262|566|4030|Week 6||1||||||46.0||16.0||6||0.0||0.0||per day|per day
+263|550|4031|Week 6|1|||||Tandem t:slim X2 with Basal:IQ||30.2||17.8||3|||1|2.0|||per day
+264|382|4061|Week 6||1||||||100.0||50.0||12|||1|3.0|||per week
+265|231|4087|Week 6|1|||||Medtronic Paradigm 512||37.4||22.1||4|||1|1.0|||per day
+266|558|4109|Week 6|1|||||Insulet OmniPod Insulin Management System||32.5||13.3||4|||1|0.0|||per week
+267|215|4116|Week 10||1||||||42.0||22.0||4|||1|0.0|||per week
+268|102|4119|Week 6|1|||||Insulet OmniPod Insulin Management System||57.4||28.3||7|||1||1
+269|311|4123|Week 6|1|||||Medtronic 670G||25.0||7.2||7|||1|1.0|||per day
+270|395|4136|Week 6|1|||||Insulet OmniPod Insulin Management System||28.6||11.4||4|||1|2.0|||per week
+271|201|4195|Week 10||1||||||55.0||30.0||6|||1||1
+272|375|4202|Week 10|1|||||Insulet OmniPod Insulin Management System||30.0||14.0||5|||1|1.0|||per week
+273|355|4204|Week 2|1|||||Medtronic 670G||41.2||27.1||3|||1|0.0|||per week
+274|169|4212|Week 10|1|||||Tandem t:slim X2 with Control:IQ||76.5||31.0||5|||1|0.0|||per day
+275|161|4213|Week 6|1|||||Tandem t:slim X2 with Control:IQ||54.7||26.6||3|||1|0.0|||per week
+276|416|4229|Week 6|1|||||Medtronic 751 (530G)||72.0||31.0||12|||1|4.0|||per day
+277|19|4231|Week 2||1||||||26.5||11.5||3|||1|2.0|||per day
+278|228|4239|Week 10||1||||||37.0||14.0||4|||1|0.0|||per week
+279|41|4240|Week 6|1|||||Insulet OmniPod Insulin Management System||40.0||13.1||12|||1|1.0|||per day
+280|540|4243|Week 10||1||||||81.0||36.0||4|||1||1
+281|458|4261|Week 10||1||||||53.0||19.0||6|||1|0.0|||per day
+282|582|4266|Week 2|1|||||Tandem t:slim X2 with Basal:IQ||47.4||27.0||5|||1|2.0|||per day
+283|11|4269|Week 6|1|||||Tandem t:slim X2 with Control:IQ||21.0||9.9||4|||1|3.0|||per week
+284|303|4291|Week 10||1||||||180.0||75.0||4|||1|1.0|||per week
+285|35|4308|Week 6||1||||||38.0||14.0||3|||1|4.0|||per week
+286|420|4312|Week 6|1|||||Medtronic 670G||60.1||29.2||7|||1|3.7|||per day
+287|470|4314|Week 2|1|||||Insulet OmniPod Insulin Management System||26.3||8.6||5|||1||1
+288|403|4324|Week 10|1|||||Insulet OmniPod Insulin Management System||47.4||23.3||5|||1||1
+289|146|4326|Week 10|1|||||Tandem t:slim X2 with Control:IQ||52.1||21.0||10|||1|8.0|||per week
+290|49|4328|Week 6|1|||||Medtronic 670G||58.8||27.1||4|||1|0.0|||per week
+291|253|4332|Week 2||1||||||16.0||11.0||6|||1|5.0|||per day
+292|129|4348|Week 6|1|||||Medtronic 670G||27.2||13.2||7|||1||1
+293|98|4356|Week 10||1||||||15.0||9.0||4|||1|1.0|||per day
+294|320|4366|Week 10||1||||||64.0||26.0||5|||1||1
+295|530|4390|Week 10|1|||||Medtronic 630G||26.9||17.8||3||0.0||0.0||per day|per day
+296|345|4402|Week 10|1|||||Medtronic 670G||60.0||32.0|||1||1||1
+297|216|4419|Week 6|1|||||Insulet OmniPod Insulin Management System||45.6||18.4||8|||1||1
+298|370|4422|Week 6|1|||||Insulet OmniPod Insulin Management System||32.0||16.9||8|||1||1
+299|14|4432|Week 2||1||||||120.0||70.0||5|||1||1
+300|58|4436|Week 2||1||||||94.0||24.0||4|||1|1.0|||per day
+301|251|4440|Week 2||1||||||37.0||25.0||3||0.0||0.0||per day|per day
+302|505|4459|Week 10|1|||||Insulet OmniPod Insulin Management System||30.5||11.5||5|||1|4.0|||per day
+303|433|4460|Week 10|1|||||Tandem t:slim X2 with Control:IQ||41.3||22.4||2|||1|1.0|||per day
+304|86|4470|Week 10|1|||||Medtronic 670G||31.4||23.5||5|||1|5.0|||per day
+305|448|4490|Week 10||1||||||86.0||52.0||3||0.0||2.0||per day|per week
+306|381|4503|Week 6|1|||||Tandem t:slim X2 with Basal:IQ||8.5||5.0||4|||1|6.0|||per day
+307|382|4506|Week 10||1||||||124.0||50.0||6|||1|3.0|||per week
+308|244|4511|Week 6|1|||||Tandem t:slim||79.0||43.0||5|||1|1.0|||per week
+309|152|4512|Week 6|1|||||MiniMed 770G||25.1||13.6||12|||1||1
+310|406|4517|Week 10|1|||||Medtronic 670G||22.0||11.0||4|||1|0.0|||per week
+311|52|4520|Week 6||1||||||45.0||16.0||7|||1|0.0|||per week
+312|545|4521|Week 6||1||||||45.0||16.0||7|||1|0.0|||per week
+313|395|4522|Week 10|1|||||Insulet OmniPod Insulin Management System||29.2||11.7||4|||1|0.0|||per week
+314|335|4531|Week 2|1|||||Tandem t:slim X2 with Control:IQ||78.0||26.0||3||0.0||0.0||per day|per day
+315|585|4539|Week 6||1|1|||||27.3||11.0||5|||1|0.0|||per week
+316|175|4542|Week 2|1|||||MiniMed 770G||150.0||74.6||5|||1||1
+317|563|4547|Week 6|1|||||Insulet OmniPod Insulin Management System||52.0||25.0||5|||1|0.0|||per day
+318|587|4550|Week 6||1||||||31.0||14.0||4||2.0||2.0||per week|per week
+319|147|4560|Week 6|1|||||Tandem t:slim X2 with Basal:IQ||42.8||14.6||7|||1|0.0|||per week
+320|481|4565|Week 10||1||||||16.0||11.0||3|||1||1
+321|380|4572|Week 6|1|||||Medtronic 670G||108.3||73.3||4|||1|0.0|||per day
+322|368|4575|Week 6||1||||||24.0||7.0||5|||1|12.0|||per week
+323|308|4584|Week 6|1|||||Insulet OmniPod Insulin Management System||84.8||49.7||3|||1||1
+324|343|4586|Week 10|1|||||Insulet OmniPod Insulin Management System||40.0||23.0||5|||1|0.0|||per week
+325|399|4588|Week 10|1|||||Tandem t:slim X2 with Control:IQ||31.8||20.4||4|||1|0.0|||per week
+326|458|4602|Week 13||1||||||54.0||19.0||6|||1|0.0|||per week
+327|201|4605|Week 13||1||||||30.0||30.0||5|||1||1
+328|114|4611|Week 6||1||||||28.0||14.0||3|||1|2.0|||per week
+329|117|4627|Week 10|1|||||Tandem t:slim X2 with Control:IQ||76.0||32.6||5||0.0||0.0||per day|per day
+330|476|4630|Week 2||1||||||45.0||25.0||3|||1|0.0|||per day
+331|77|4638|Week 6|1|||||Tandem t:slim X2 with Basal:IQ||26.4||10.5||8|||1|1.0|||per day
+332|15|4641|Week 6||1||||||40.0||20.0||4|||1||1
+333|142|4655|Week 6||1||||||67.0||38.0||4|||1|1.0|||per week
+334|499|4658|Week 10|1|||||Insulet OmniPod Insulin Management System||104.0||25.0||6|||1|1.0|||per day
+335|267|4670|Week 6|1|||||Medtronic 670G||40.0||28.0||4|||1|3.0|||per day
+336|533|4673|Week 6||1||||||150.0||41.0||5|||1|0.0|||per day
+337|566|4688|Week 10||1||||||50.0||16.0||5||0.0||0.0||per day|per day
+338|146|4699|Week 13|1|||||Tandem t:slim X2 with Control:IQ||56.8||22.4||10|||1|6.0|||per day
+339|540|4701|Week 13||1||||||90.0||36.0||9|||1||1
+340|558|4714|Week 10|1|||||Insulet OmniPod Insulin Management System||32.4||13.7||4|||1|1.0|||per week
+341|532|4722|Week 6||1||||||51.0||25.0||3|||1|0.0|||per day
+342|550|4726|Week 10|1|||||Tandem t:slim X2 with Basal:IQ||29.9||17.8||5|||1|1.0|||per day
+343|228|4727|Week 13||1||||||48.0||15.0||5|||1|1.0|||per week
+344|575|4734|Week 6|1|||||Medtronic 670G||73.6||47.3||5|||1|5.0|||per day
+345|330|4738|Week 2|1|||||Tandem t:slim||70.0||30.0||4||0.0||0.0||per day|per day
+346|265|4739|Week 10||1||||||54.0||26.0||7|||1|1.0|||per week
+347|303|4749|Week 13||1||||||180.0||75.0||4|||1|0.0|||per week
+348|169|4752|Week 13|1|||||Tandem t:slim X2 with Basal:IQ||70.0||34.1||3|||1|0.0|||per day
+349|375|4755|Week 13|1|||||Insulet OmniPod Insulin Management System||32.1||14.5||12|||1|2.0|||per week
+350|41|4770|Week 10|1|||||Insulet OmniPod Insulin Management System||40.0||13.5||12|||1|0.0|||per day
+351|215|4786|Week 13||1||||||42.0||22.0||6|||1|0.0|||per day
+352|345|4789|Week 13|1|||||Medtronic 670G||60.0||33.0||4|||1|0.0|||per week
+353|265|4795|Week 13||1||||||54.0||26.0||4|||1|0.0|||per day
+354|311|4801|Week 10|1|||||Medtronic 670G||25.9||8.2||7|||1|2.0|||per day
+355|355|4816|Week 6|1|||||Medtronic 670G||45.6||18.0||3|||1|0.0|||per week
+356|530|4821|Week 13|1|||||Medtronic 630G||25.3||17.8||5||0.0||0.0||per day|per week
+357|460|4827|Week 2|1|||||Insulet OmniPod Insulin Management System||67.0||34.7||4|||1||1
+358|98|4830|Week 13||1||||||12.0||6.0||6|||1|1.0|||per day
+359|161|4834|Week 10|1|||||Tandem t:slim X2 with Control:IQ||51.2||25.6||4|||1|0.0|||per week
+360|416|4836|Week 10|1|||||Medtronic 751 (530G)||70.0||31.0||5|||1|4.0|||per day
+361|102|4843|Week 10|1|||||Insulet OmniPod Insulin Management System||51.7||28.8||7|||1||1
+362|19|4857|Week 6||1||||||22.5||10.5||4|||1|1.0|||per day
+363|582|4872|Week 6|1|||||Tandem t:slim X2 with Basal:IQ||49.5||26.6||8|||1|0.0|||per week
+364|11|4873|Week 10|1|||||Tandem t:slim X2 with Control:IQ||22.1||10.6||5|||1|0.0|||per week
+365|420|4875|Week 10|1|||||MiniMed 770G||55.8||27.5||7|||1|3.0|||per day
+366|403|4911|Week 13|1|||||Insulet OmniPod Insulin Management System||43.0||15.6||6||0.4||1.0||per day|per day
+367|484|4935|Week 6|1|||||Tandem t:slim X2 with Control:IQ||27.5||12.9||12|||1|0.0|||per day
+368|320|4949|Week 13||1||||||64.0||26.0||3|||1|2.0|||per week
+369|406|4962|Week 13|1|||||Medtronic 670G||24.0||11.0||4|||1||1
+370|35|4975|Week 10||1||||||32.0||23.0||4|||1|0.0|||per week
+371|251|4981|Week 6||1||||||43.0||25.0||3|||1|0.0|||per day
+372|470|4983|Week 6|1|||||Insulet OmniPod Insulin Management System||23.0||8.5||15|||1||1
+373|448|4991|Week 13||1||||||80.0||52.0||3||0.0||0.0||per day|per day
+374|481|5000|Week 13||1||||||18.0||12.0||3|||1||1
+375|129|5009|Week 10|1|||||Medtronic 670G||25.0||11.0||8|||1||1
+376|382|5018|Week 13||1||||||140.0||50.0||6|||1|3.0|||per day
+377|343|5019|Week 13|1|||||Insulet OmniPod Insulin Management System||30.0||18.8||5||0.0||0.0||per week|per week
+378|58|5046|Week 6||1||||||90.0||20.0||6|||1|2.0|||per week
+379|244|5053|Week 10|1|||||Tandem t:slim||72.0||43.5||3|||1|0.0|||per day
+380|433|5062|Week 13|1|||||Tandem t:slim X2 with Control:IQ||41.5||22.9||1|||1|1.0|||per day
+381|395|5066|Week 13|1|||||Insulet OmniPod Insulin Management System||26.9||11.4||5|||1|1.0|||per week
+382|14|5069|Week 6||1||||||110.0||76.0||4|||1|0.0|||per day
+383|253|5072|Week 6||1||||||28.0||13.0||5|||1|5.0|||per day
+384|49|5080|Week 10|1|||||Medtronic 670G||56.5||27.0||4||0.0||0.0||per day|per day
+385|484|5116|Week 10|1|||||Tandem t:slim X2 with Control:IQ||27.8||13.6||10|||1|0.0|||per day
+386|399|5118|Week 13|1|||||Tandem t:slim X2 with Control:IQ||31.2||19.3||4|||1|0.0|||per week
+387|368|5136|Week 10||1||||||25.0||8.0||5|||1|10.0|||per week
+388|559|5141|Week 2|1|||||Tandem t:slim X2 with Control:IQ||99.0||69.0||5||0.0||0.0||per day|per day
+389|585|5147|Week 10||1||||||25.8||10.0||5|||1|0.0|||per week
+390|152|5149|Week 10|1|||||Medtronic 670G||22.3||12.4||5|||1|2.0|||per week
+391|499|5150|Week 13|1|||||Insulet OmniPod Insulin Management System||80.0||23.8||5|||1|1.0|||per week
+392|142|5158|Week 10||1||||||78.0||40.0||4|||1|1.0|||per week
+393|86|5160|Week 13|1|||||Medtronic 670G||31.9||22.9||5|||1|5.0|||per day
+394|563|5185|Week 10|1|||||Insulet OmniPod Insulin Management System||63.0||20.6|||1||1|1.0|||per week
+395|550|5190|Week 13|1|||||Tandem t:slim X2 with Control:IQ||32.2||19.4||8|||1|1.0|||per day
+396|267|5198|Week 10|1|||||Medtronic 670G||38.0||27.0||3|||1|13.0|||per week
+397|380|5205|Week 10|1|||||Medtronic 670G||98.6||73.8||4|||1|0.0|||per day
+398|505|5211|Week 13|1|||||Insulet OmniPod Insulin Management System||33.7||25.4||6|||1|7.0|||per day
+399|587|5228|Week 10||1||||||44.0||14.0||5|||1|1.0|||per week
+400|147|5230|Week 10|1|||||Tandem t:slim X2 with Basal:IQ||44.0||14.3||7|||1|3.0|||per week
+401|335|5247|Week 6|1|||||Tandem t:slim X2 with Control:IQ||83.0||19.0||4||0.0||0.0||per day|per day
+402|175|5249|Week 6|1|||||MiniMed 770G||137.9||73.3||6|||1||1
+403|558|5251|Week 13|1|||||Insulet OmniPod Insulin Management System||30.9||13.1||4|||1|1.0|||per week
+404|381|5261|Week 10|1|||||Tandem t:slim X2 with Basal:IQ||8.8||5.1||5|||1|6.0|||per day
+405|308|5284|Week 10|1|||||Insulet OmniPod Insulin Management System||25.1||13.6||10|||1|1.0|||per week
+406|370|5300|Week 10|1|||||Insulet OmniPod Insulin Management System||25.0||14.3||7|||1||1
+407|566|5306|Week 13||1||||||36.0||16.0||5|||1|0.0|||per day
+408|476|5309|Week 6||1||||||55.0||30.0||4|||1||1
+409|77|5369|Week 10|1|||||Tandem t:slim X2 with Basal:IQ||26.6||10.6||8|||1|1.0|||per day
+410|533|5375|Week 10||1||||||150.0||41.0||5|||1|0.0|||per day
+411|575|5376|Week 10|1|||||Medtronic 670G||67.4||43.6||4|||1|6.0|||per day
+412|117|5377|Week 13|1|||||Tandem t:slim X2 with Control:IQ||69.0||30.0||8||0.0||0.0||per day|per day
+413|230|5396|Week 2|1|||||Tandem t:slim X2||32.0||24.0||4|||1|3.0|||per week
+414|231|5425|Week 10|1|||||Medtronic 551 (530G)||35.0||22.0||5|||1|1.0|||per day
+415|231|5436|Week 13|1|||||Medtronic Paradigm 723 (Revel)||32.3||22.5||9|||1|1.0|||per day
+416|416|5442|Week 13|1|||||Medtronic 551 (530G)||63.8||31.3||5|||1|8.0|||per day
+417|11|5444|Week 13|1|||||Tandem t:slim X2 with Control:IQ||24.4||12.5||6|||1|2.0|||per week
+418|532|5445|Week 10||1||||||50.0||25.0||3||0.0||0.0||per day|per day
+419|216|5460|Week 10|1|||||Insulet OmniPod Insulin Management System||46.0||19.0||8|||1||1
+420|216|5461|Week 13|1|||||Insulet OmniPod Insulin Management System||46.0||18.0||8|||1||1
+421|311|5463|Week 13|1|||||Medtronic 670G||26.2||8.6||6|||1|1.0|||per day
+422|102|5466|Week 13|1|||||Insulet OmniPod Insulin Management System||42.1||26.1||4|||1||1
+423|15|5471|Week 10||1||||||40.0||20.0||4|||1||1
+424|114|5481|Week 10||1||||||47.0||15.0||4|||1|3.0|||per week
+425|41|5485|Week 13|1|||||Insulet OmniPod Insulin Management System||45.0||13.1||10|||1||1
+426|150|5503|Week 2||1||||||22.0||10.0||5|||1|0.0|||per day
+427|161|5515|Week 13|1|||||Tandem t:slim X2 with Control:IQ||50.4||25.6||5|||1|0.0|||per week
+428|244|5519|Week 13|1|||||Tandem t:slim X2||73.0||37.0||5||0.0||0.0||per day|per day
+429|355|5520|Week 10|1|||||MiniMed 770G||43.1||27.1||2|||1|0.0|||per week
+430|545|5547|Week 10||1||||||50.0||16.0||7|||1|0.0|||per day
+431|582|5554|Week 10|1|||||Tandem t:slim X2 with Basal:IQ||51.1||27.4||4|||1|0.0|||per week
+432|49|5570|Week 13|1|||||Medtronic 670G||54.4||26.5||4||0.0||0.0||per day|per day
+433|420|5576|Week 13|1|||||MiniMed 770G||56.4||29.5||7|||1|4.0|||per day
+434|142|5596|Week 13||1||||||71.0||40.0||5|||1|0.0|||per week
+435|253|5597|Week 10||1||||||34.0||13.0||5|||1|3.0|||per day
+436|129|5606|Week 13|1|||||Medtronic 670G||27.7||13.2||9|||1||1
+437|251|5611|Week 10||1||||||40.0||25.0||5||0.0||0.0||per day|per day
+438|35|5612|Week 13||1||||||34.0||24.0||4||0.0||0.0||per day|per day
+439|52|5630|Week 10||1||||||50.0||16.0||7|||1|0.0|||per day
+440|460|5645|Week 6|1|||||Insulet OmniPod Insulin Management System||66.3||36.2|||1||1||1
+441|470|5647|Week 10|1|||||Insulet OmniPod Insulin Management System||26.3||8.6||4|||1||1
+442|585|5678|Week 13||1||||||25.3||10.0||6|||1|0.0|||per week
+443|380|5681|Week 13|1|||||Medtronic 670G||88.4||65.1||4|||1|0.0|||per day
+444|381|5687|Week 13|1|||||Tandem t:slim X2 with Basal:IQ||9.0||5.2||6|||1|5.0|||per day
+445|152|5691|Week 13|1|||||MiniMed 770G||23.4||12.3||2|||1||1
+446|58|5738|Week 10||1||||||90.0||20.0||6|||1|2.0|||per week
+447|335|5739|Week 10|1|||||Tandem t:slim X2 with Control:IQ||59.0||23.0||5||0.0||0.0||per day|per day
+448|308|5747|Week 13|1|||||Insulet OmniPod Insulin Management System||88.5||49.4||3|||1||1
+449|587|5750|Week 13||1||||||30.0||14.0||5||1.0||1.0||per week|per week
+450|563|5751|Week 13|1|||||Insulet OmniPod Insulin Management System||69.4||20.6||6|||1|1.0|||per week
+451|370|5754|Week 13|1|||||Insulet OmniPod Insulin Management System||26.1||14.3||5|||1||1
+452|114|5758|Week 13||1||||||45.0||16.0||4|||1|2.0|||per week
+453|52|5761|Week 13||1||||||50.0||16.0||6|||1|1.0|||per week
+454|545|5762|Week 13||1||||||50.0||16.0||6|||1|1.0|||per week
+455|14|5774|Week 10||1||||||120.0||70.0||4|||1||1
+456|147|5775|Week 13|1|||||Tandem t:slim X2 with Basal:IQ||44.1||14.1||7|||1|0.0|||per week
+457|484|5776|Week 13|1|||||Tandem t:slim X2 with Control:IQ||26.9||13.3||11|||1|1.0|||per week
+458|559|5779|Week 6|1|||||Tandem t:slim X2 with Control:IQ||97.0||75.0||5||0.0||0.0||per day|per day
+459|15|5780|Week 13||1||||||48.0||21.0||5|||1||1
+460|77|5787|Week 13|1|||||Tandem t:slim X2 with Basal:IQ||26.3||10.7||8|||1|1.0|||per week
+461|533|5793|Week 13||1||||||150.0||41.0||5|||1|0.0|||per week
+462|230|5796|Week 6|1|||||Tandem t:slim X2||42.4||23.9||28||0.0||0.0||per day|per day
+463|175|5804|Week 10|1|||||MiniMed 770G||130.9||65.1||7|||1||1
+464|267|5811|Week 13|1|||||Medtronic 670G||34.0||27.0||3|||1|3.0|||per day
+465|368|5826|Week 13||1||||||26.0||8.0||6|||1|9.0|||per week
+466|575|5829|Week 13|1|||||MiniMed 770G||67.8||41.8||3|||1|4.0|||per day
+467|330|5831|Week 6|1|||||Tandem t:slim X2||81.0||29.0||5||0.0||0.0||per day|per day
+468|532|5883|Week 13||1||||||50.0||25.0||3||0.0||0.0||per day|per day
+469|19|5885|Week 10||1||||||22.5||10.5||4|||1|1.0|||per day
+470|476|5886|Week 10||1||||||55.0||30.0||3|||1|0.0|||per day
+471|239|5924|Week 2|1|||||Insulet OmniPod Insulin Management System||67.9||30.0||4|||1||1
+472|19|5927|Week 13||1||||||27.0||14.0||3|||1|1.0|||per day
+473|330|5945|Week 10|1|||||Tandem t:slim X2||81.0||30.0||5|||1|0.0|||per day
+474|239|5959|Week 6|1|||||Insulet OmniPod Insulin Management System||65.9||35.0||4|||1||1
+475|253|5971|Week 13||1||||||31.0||13.0||5|||1|4.0|||per day
+476|150|5990|Week 6||1||||||22.0||11.0||5|||1|0.0|||per day
+477|251|5997|Week 13||1||||||56.0||21.0||6|||1|0.0|||per day
+478|582|5998|Week 13|1|||||Tandem t:slim X2 with Basal:IQ||52.4||28.6||5|||1|0.0|||per week
+479|355|6005|Week 13|1|||||Medtronic 670G||45.7||27.0||2|||1|0.0|||per week
+480|14|6017|Week 13||1||||||130.0||70.0||4||0.0||0.0||per day|per day
+481|175|6034|Week 13|1|||||MiniMed 770G||142.5||71.0||6||0.0||0.0||per day|per day
+482|58|6041|Week 13||1||||||75.0||22.0||4|||1|4.0|||per day
+483|470|6048|Week 13|1|||||Insulet OmniPod Insulin Management System||29.4||8.6||5|||1||1
+484|559|6066|Week 10|1|||||Tandem t:slim X2 with Control:IQ||90.7||65.3||4|||1|2.0|||per day
+485|335|6083|Week 13|1|||||Tandem t:slim X2 with Control:IQ||72.0||24.0||6||0.0||0.0||per day|per day
+486|460|6086|Week 10|1|||||Insulet OmniPod Insulin Management System||64.7||35.4||3||1.0||1.0||per day|per day
+487|230|6155|Week 10|1|||||Tandem t:slim||39.6||23.9||5||0.0||0.0||per day|per day
+488|476|6157|Week 13||1||||||55.0||30.0||4|||1|1.0|||per week
+489|460|6190|Week 13|1|||||Insulet OmniPod Insulin Management System||59.3||33.0||2||0.0||0.0||per day|per day
+490|150|6197|Week 10||1||||||17.0||9.0||5|||1|0.0|||per day
+491|239|6201|Week 10|1|||||Insulet OmniPod Insulin Management System||65.0||32.0||4|||1||1
+492|330|6202|Week 13|1|||||Tandem t:slim X2||100.4||27.9||20||0.0||0.0||per day|per day
+493|559|6207|Week 13|1|||||Tandem t:slim X2 with Control:IQ||97.1||73.5||6||0.0||0.0||per day|per day
+494|230|6237|Week 13|1|||||Tandem t:slim X2||32.2||23.9||6||0.0||0.0||per day|per day
+495|239|6274|Week 13|1|||||Insulet OmniPod Insulin Management System||57.3||29.1||5|||1||1
+496|150|6289|Week 13||1||||||21.0||10.0||7|||1|0.0|||per day
